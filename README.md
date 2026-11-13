@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-Jyotikumari622-7AA2F7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-BB9AF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Theme-Tokyo%20Night-414868?style=for-the-badge" />
+ 
 </p>
 
 ---
